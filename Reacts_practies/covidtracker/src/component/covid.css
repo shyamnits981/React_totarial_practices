@@ -1,0 +1,14 @@
+.card{
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    display: inline-block;
+    background-color: aqua;
+    text-align: center;
+}
+H1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
